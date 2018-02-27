@@ -1,5 +1,5 @@
 # TimestampMicroservice
-freecodecamp API Projects 1
+API Projects 1
 
 https://timestampmicroservice-fcc.glitch.me/
 
